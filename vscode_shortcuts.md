@@ -83,3 +83,5 @@ itsfoss.com/vs-code-shortcuts/
 
 Normal cloning  working  on cmd
 vscode angular commands
+
+vscode searching
