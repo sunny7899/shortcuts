@@ -291,3 +291,7 @@ concat() formult
 =match(d2, $a$2:$a$11, 0)
 
 ctrl + colon to insert current date in excel
+
+C4
+
+=sumif(Income!C:C,A4,Income!F:F) -> (Income) google sheet name
