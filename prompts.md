@@ -50,6 +50,11 @@ Improvise this or rephrase this
 https://docs.github.com/en/copilot/quickstart
 https://docs.github.com/en/copilot 
 
+https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review?tool=webui#requesting-a-review-from-copilot
+https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review?tool=webui#enabling-automatic-reviews-from-copilot
+https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review?tool=vscode
+https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-for-pull-requests/using-copilot-to-help-you-work-on-a-pull-request 
+
  
 
  
