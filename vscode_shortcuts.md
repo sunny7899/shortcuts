@@ -87,5 +87,8 @@ vscode angular commands
 vscode searching
 
 ^\s*$\n  - remove line space vscode
-**/documentation, package-lock.json , asp-dot-net, .js, .md  - ignore folder 
+
+ignore files search vscode
+.js, .md  - ignore folder 
 **/documentation, package-lock.json , asp-dot-net, .min.css, .rtl.css, .css.map, .map, .min.js, .htc
+.storybook, e2e, storybook-static, 
