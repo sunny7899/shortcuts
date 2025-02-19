@@ -199,3 +199,5 @@ https://www.instagram.com/p/Bg5tTlTH2vj/?utm_source=ig_embed&utm_campaign=loadin
 Shortcut key-	
 Window + shift + s - for screenshot 	
  ctrl + shift + s is another way of capturing screen	
+
+rm -r -fo  node_modules/.cache  			remove any folder
