@@ -57,6 +57,7 @@ https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-for
 
  
 
+ https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode
  
 
  

@@ -228,7 +228,7 @@ ______      _               _   _               _
 
 ## License
 
-**MIT &copy; [Sunny](https://github.com/NodeJSEngineering/file-upload/blob/master/LICENSE)**
+**MIT &copy; [](https://github.com/NodeJSEngineering/file-upload/blob/master/LICENSE)**
 
 [![GitHub license](https://img.shields.io/github/license/NodeJSEngineering/file-upload?style=social&logo=github)](https://github.com/NodeJSEngineering/file-upload/blob/master/LICENSE)
 
