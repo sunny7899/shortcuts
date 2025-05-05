@@ -170,3 +170,8 @@ Following shortcuts, you can use to open different tabs in a chrome browser for 
 14.  shift+F10-step out
 
 https://developers.google.com/web/tools/chrome-devtools/console/utilities
+
+Browser Dev tools
+CSS Panel
+Computed panel
+Grid and flexbox tools
