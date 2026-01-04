@@ -62,3 +62,11 @@ https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-for
 
 unit test is important if you are developing application with copilot. 
 
+https://github.com/copilot
+
+https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features
+generative AI agents with a fully managed, scalable solution, and then follow
+Explore multiagent systems, from core concepts to implementation, to build powerful applications.
+digital ocean
+
+GenAI
