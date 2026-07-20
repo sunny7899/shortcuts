@@ -10,3 +10,26 @@ https://www.amazon.com/HP-Notebook-i5-1135G7-Quad-core-Keyboard/dp/B08SKLKNDW
 HP ProBook 640 G8 Notebook PC (2Q015AV)	
 Chromebook acer 514	
 HP EliteBook 840 14 inch G9 Notebook PC 12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz	
+Apple MacBook Pro
+
+environment variables path copy for quick setup
+
+quick shortcuts
+git config --list
+git config user.email sunnyvales789@gmail.com
+git config user.name  sunny7899
+git add .
+git commit -m"update"
+git commit -m "update " --no-verify
+git push origin master
+git pull origin main
+git rev-list --count HEAD  count commits
+git log -5
+git remote add origin `{Repourl}` 
+git remote set-url origin `{Repourl}` 
+git remote show origin
+.js, .js.map, package-lock.json, .log, .drawio, .md, .ipynb, .yml, .lock
+**/documentation,docs, .storybook , package-lock.json, asp-dot-net, .min.css, .rtl.css, .css.map, .map, .min.js, .htc, html-templates, .bundle.js, jquery, esm.js, .mdx, .gitignore, .js,
+C:\demodata\git\ideas\biolink-tutorial\public
+https://dashboard.honeygain.com/ 
+
