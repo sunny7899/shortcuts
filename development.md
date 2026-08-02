@@ -22,14 +22,20 @@ git add .
 git commit -m"update"
 git commit -m "update " --no-verify
 git push origin master
+git push -u origin master
 git pull origin main
 git rev-list --count HEAD  count commits
 git log -5
 git remote add origin `{Repourl}` 
 git remote set-url origin `{Repourl}` 
 git remote show origin
-.js, .js.map, package-lock.json, .log, .drawio, .md, .ipynb, .yml, .lock
-**/documentation,docs, .storybook , package-lock.json, asp-dot-net, .min.css, .rtl.css, .css.map, .map, .min.js, .htc, html-templates, .bundle.js, jquery, esm.js, .mdx, .gitignore, .js,
+git config user.email apexmansunny@gmail.com
+git config user.name  apexmansunny 
+git branch -r
+git branch -a 
+git remote set-url origin https://<YOUR_USERNAME>:<YOUR_TOKEN>@github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
+.js, .js.map, package-lock.json, .log, .drawio, .md, .ipynb, .yml, .lock anti. .json, package-lock.json, .htm, .map, .html, .yaml, .lock, .pbtxt, .mts, .csv
+**/documentation,docs, .storybook , package-lock.json, asp-dot-net, .min.css, .rtl.css, .css.map, .map, .min.js, .htc, html-templates, .bundle.js, jquery, esm.js, .mdx, .gitignore, .js, .csv, pocs, star
 C:\demodata\git\ideas\biolink-tutorial\public
 https://dashboard.honeygain.com/ 
 
