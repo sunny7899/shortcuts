@@ -1,6 +1,7 @@
 Settings - general -Enable undo feat email - update time here 
 Offline mode
 
+[\p{So}\p{Cn}] regex remove emoticons readme file
 
 best laptops to work  with	
 HP 348 G7 Notebook PC	
@@ -10,7 +11,9 @@ https://www.amazon.com/HP-Notebook-i5-1135G7-Quad-core-Keyboard/dp/B08SKLKNDW
 HP ProBook 640 G8 Notebook PC (2Q015AV)	
 Chromebook acer 514	
 HP EliteBook 840 14 inch G9 Notebook PC 12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz	
-Apple MacBook Pro
+Apple Silicon (ARM) Macs
+M‑series MacBook Pro, or
+MacBook Air models running macOS 15 or higher
 
 environment variables path copy for quick setup
 
@@ -24,7 +27,7 @@ git commit -m "update " --no-verify
 git push origin master
 git push -u origin master
 git pull origin main
-git rev-list --count HEAD  count commits
+git rev-list --count HEAD // count commits
 git log -5
 git remote add origin `{Repourl}` 
 git remote set-url origin `{Repourl}` 
@@ -34,8 +37,11 @@ git config user.name  apexmansunny
 git branch -r
 git branch -a 
 git remote set-url origin https://<YOUR_USERNAME>:<YOUR_TOKEN>@github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
-.js, .js.map, package-lock.json, .log, .drawio, .md, .ipynb, .yml, .lock anti. .json, package-lock.json, .htm, .map, .html, .yaml, .lock, .pbtxt, .mts, .csv
-**/documentation,docs, .storybook , package-lock.json, asp-dot-net, .min.css, .rtl.css, .css.map, .map, .min.js, .htc, html-templates, .bundle.js, jquery, esm.js, .mdx, .gitignore, .js, .csv, pocs, star
+git config --global core.longpaths true  Enable Long Paths in Git
+del .git\index.lock
+.js, .js.map, .log, .drawio, .md, .ipynb, .yml, .lock anti. .json, package-lock.json, .htm, .map, .html, .yaml, .lock, .pbtxt, .mts, .csv, **/documentation,docs, .storybook , asp-dot-net, .min.css, .rtl.css, .css.map, .map, .min.js, .htc, html-templates, .bundle.js, jquery, esm.js, .mdx, .gitignore, .js, .csv, pocs, star, .json, .txt
 C:\demodata\git\ideas\biolink-tutorial\public
 https://dashboard.honeygain.com/ 
 
+📋 Basic Listing Commands
+dir /b > filenames.txt
